@@ -1,2 +1,2 @@
-# Tick-Tock
-Time is veryyyyy PRECIOUS
+# p5.play-boilerplate
+Boiler plate for p5.play
